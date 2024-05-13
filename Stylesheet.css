@@ -1,4 +1,3 @@
-
 /* styles.css */
 /* Sky Blue Background */
 body {
@@ -120,7 +119,7 @@ footer {
 }
 
 .social-icons img {
-    width: 10px; /* Adjust the size of the icons */
+    width: 30px; /* Adjust the size of the icons */
     height: auto;
 }
 /* Games section */
