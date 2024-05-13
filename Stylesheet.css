@@ -62,19 +62,15 @@ footer {
 }
 
 .social-icons {
-    display: flex;
-    justify-content: center; /* Center social icons */
-    align-items: center;
+    position: absolute;
+    bottom: 10px; /* Adjust distance from bottom */
+    right: 10px; /* Adjust distance from right */
 }
 
 .social-icons a {
-    margin: 0 10px; /* Adjust spacing */
+    margin: 0 5px; /* Adjust spacing */
 }
 
-.social-icons img {
-    width: 30px;
-    height: auto;
-}
 
 /* Custom CSS for Carousel */
 .carousel-inner .item {
