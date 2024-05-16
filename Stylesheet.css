@@ -115,38 +115,12 @@ footer {
 }
 
 .social-icons a {
-    margin-left: 2px; /* Adjust the spacing between icons */
+    margin-left: 10px; /* Adjust the spacing between icons */
 }
 
 .social-icons img {
-    width: 5px; /* Adjust the size of the icons */
+    width: 20px; /* Adjust the size of the icons */
     height: auto;
-}
-/* Games section */
-.game {
-    margin: 10px;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    max-width: 250px;
-}
-
-.game img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
-}
-
-.game h2 {
-    margin-top: 10px;
-    font-size: 1.2em;
-}
-
-.game p {
-    margin-top: 5px;
-    color: #666;
 }
 /* Custom CSS for Carousel */
 .carousel-inner .item {
